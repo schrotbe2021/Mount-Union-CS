@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Ben Schroth
+PA3 CSC 220
+Dr. Weber
+10/23/2018
+-->
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox
+    prefHeight="400" 
+    prefWidth="500"
+    alignment="center"
+    spacing="10"
+    xmlns:fx="http://javafx.com/fxml/1" 
+    fx:controller="phone_list_controller.Controller"
+>
+    <Label text="Ben Schroth's Contact List"/>
+    <Label text="Press enter after adding a contact to save to the file."/>
+    <Button text="Add Contact" onAction="#addCell"></Button>
+    <Button text="Remove Contact" onAction="#deleteCell"></Button>
+    <Button text="Save to File" onAction="#save"></Button>
+    <ListView fx:id="listView"/>
+</VBox>
