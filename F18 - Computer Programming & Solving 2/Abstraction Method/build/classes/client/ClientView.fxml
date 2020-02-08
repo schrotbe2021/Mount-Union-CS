@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--  
+      /*
+Ben Schroth
+Dr. Weber
+CSC 220
+10/2/2018
+PA2
+*/
+-->
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.ClientController">
+    <children>
+        <Button layoutX="126" layoutY="90" text="Run tests" onAction="#runTestButtonAction" fx:id="button" />
+    </children>
+</AnchorPane>
