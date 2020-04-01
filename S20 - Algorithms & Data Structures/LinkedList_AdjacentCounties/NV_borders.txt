@@ -1,0 +1,17 @@
+Carson City:Douglas,Washoe,Lyon
+Churchill:Washoe,Pershing,Lander,Nye,Mineral,Lyon
+Clark:Nye,Lincoln
+Douglas:Carson City,Lyon
+Elko:Humboldt,Lander,Eureka,White Pine
+Esmeralda:Mineral,Nye
+Eureka:Lander,Elko,White Pine,Nye
+Humboldt:Washoe,Elko,Lander,Pershing
+Lander:Nye,Churchill,Pershing,Humboldt,Elko,Eureka
+Lincoln:Nye,White Pine,Clark
+Lyon:Douglas,Carson City,Washoe,Storey,Churchill,Mineral
+Mineral:Lyon,Churchill,Nye,Esmeralda
+Nye:Esmeralda,Mineral,Churchill,Lander,Eureka,White Pine,Lincoln,Clark
+Pershing:Washoe,Humboldt,Lander,Churchill
+Storey:Washoe,Lyon
+Washoe:Humboldt,Pershing,Churchill,Storey,Lyon,Carson City
+White Pine:Elko,Eureka,Nye,Lincoln

@@ -1,0 +1,23 @@
+Kent:Ottawa,Ioria,Barry,Allegan
+Cass:Berrian,Van Buren,Kalamazoo, Saint Joseph
+Wayne:Oakland, Macomb,Washenaw,Monroe
+Ionia:Kent,Barry,Eaton
+Eaton:Barry,Ionia,Ingham,Calhoun,Jackson
+Barry:Kent,Ionia,Eaton,Calhoun,Kalamazoo
+Macomb:Oakland,Wayne
+Monroe:Lenawee,Washtenaw,Wayne
+Ottawa:Kent,Allegan
+Ingham:Eaton,Jackson,Washtenaw,Livingston
+Branch:Saint Joseph,Kalamazoo,Calhoun,Hillsdale
+Oakland:Livingston,Washtenaw,Wayne,Macomb
+Allegan:Ottawa,Kent,Barry,Van Buren,Kalamazoo
+Berrien:Van Buren,Cass
+Calhoun:Barry,Eaton,Jackson,Hillsdale,Branch,Saint Joseph,Kalamazoo
+Lenawee:Hillsdale,Jackson,Washtenaw,Monroe
+Jackson:Eaton,Ingham,Livingston,Washtenaw,Lenawee,Hillsdale,Calhoun
+Kalamazoo:Branch,Saint Joseph,Cass,Van Buren,Allegan,Barry,Calhoun
+Washtenaw:Jackson,Ingham,Livingston,Oakland,Wayne,Monroe,Lenawee
+Van Buren:Allegan,Kalamazoo,Saint Joseph,Cass,Berrian
+Hillsdale:Branch,Calhoun,Jackson,Lenawee
+Livingston:Ingham,Oakland,Washtenaw,Jackson
+Saint Joseph:Cass,Van Buren,Kalamazoo,Calhoun,Branch

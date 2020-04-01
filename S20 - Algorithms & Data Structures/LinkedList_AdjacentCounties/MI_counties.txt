@@ -1,0 +1,25 @@
+Counties of Southern Michigan:
+23
+Allegan
+Barry
+Berrien
+Branch
+Calhoun
+Cass
+Eaton
+Hillsdale
+Ingham
+Ionia
+Jackson
+Kalamazoo
+Kent
+Lenawee
+Livingston
+Macomb
+Monroe
+Oakland
+Ottawa
+Saint Joseph
+Van Buren
+Washtenaw
+Wayne
